@@ -15,7 +15,7 @@
 using namespace std;
 
 /*    We use Queue DataStructure for the implementation of BFS Algorithm  */
-
+// kem palty
 int main() {
 	lli i,j,k,n,m,a,b,root;
 	queue<lli> q;
